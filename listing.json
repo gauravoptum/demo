@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "name": "Gaurav",
+      "school": "Test",
+      "rollNo": 123
+    },
+    {
+      "name": "Testing",
+      "school": "Test",
+      "rollNo": 1234
+    }
+  ]
+}
